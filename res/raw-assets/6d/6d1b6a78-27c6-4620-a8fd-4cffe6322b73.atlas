@@ -1,0 +1,48 @@
+
+paizhizhen.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层4
+  rotate: false
+  xy: 1, 28
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+图层2
+  rotate: false
+  xy: 30, 28
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+图层3
+  rotate: false
+  xy: 1, 1
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+图层5
+  rotate: false
+  xy: 31, 56
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+图层7
+  rotate: false
+  xy: 1, 56
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+图层6
+  rotate: false
+  xy: 32, 1
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1

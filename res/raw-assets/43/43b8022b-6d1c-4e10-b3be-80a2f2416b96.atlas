@@ -1,0 +1,76 @@
+
+pk_dartillery_1_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotai
+  rotate: false
+  xy: 1, 1
+  size: 129, 154
+  orig: 129, 154
+  offset: 0, 0
+  index: -1
+paokou01
+  rotate: false
+  xy: 1, 260
+  size: 115, 70
+  orig: 115, 70
+  offset: 0, 0
+  index: -1
+paokou02
+  rotate: false
+  xy: 304, 239
+  size: 115, 70
+  orig: 115, 70
+  offset: 0, 0
+  index: -1
+paowei
+  rotate: false
+  xy: 149, 98
+  size: 114, 88
+  orig: 114, 88
+  offset: 0, 0
+  index: -1
+fire01
+  rotate: false
+  xy: 149, 239
+  size: 153, 58
+  orig: 153, 58
+  offset: 0, 0
+  index: -1
+fire04
+  rotate: false
+  xy: 1, 157
+  size: 146, 101
+  orig: 146, 101
+  offset: 0, 0
+  index: -1
+fire06
+  rotate: false
+  xy: 132, 1
+  size: 139, 95
+  orig: 139, 95
+  offset: 0, 0
+  index: -1
+fire02
+  rotate: false
+  xy: 273, 176
+  size: 193, 61
+  orig: 193, 61
+  offset: 0, 0
+  index: -1
+fire03
+  rotate: false
+  xy: 273, 92
+  size: 149, 82
+  orig: 149, 82
+  offset: 0, 0
+  index: -1
+fire05
+  rotate: false
+  xy: 273, 1
+  size: 144, 89
+  orig: 144, 89
+  offset: 0, 0
+  index: -1

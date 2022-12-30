@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"rpc_request","text":"package rpc;\r\n\r\nmessage Request\r\n{\r\n\trequired string method = 1;\r\n\toptional bytes serialized_request = 2;\r\n}"}

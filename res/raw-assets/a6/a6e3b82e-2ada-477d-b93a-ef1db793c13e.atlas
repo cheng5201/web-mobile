@@ -1,0 +1,132 @@
+
+start_1_ske.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dihuan
+  rotate: false
+  xy: 1, 251
+  size: 234, 221
+  orig: 234, 221
+  offset: 0, 0
+  index: -1
+guangmang
+  rotate: false
+  xy: 1, 1
+  size: 244, 248
+  orig: 244, 248
+  offset: 0, 0
+  index: -1
+tx/0
+  rotate: false
+  xy: 320, 474
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+tx/1
+  rotate: false
+  xy: 279, 474
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+tx/2
+  rotate: false
+  xy: 961, 51
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+tx/3
+  rotate: false
+  xy: 901, 51
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+tx/5
+  rotate: false
+  xy: 901, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+tx/6
+  rotate: false
+  xy: 967, 1
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+tx/7
+  rotate: false
+  xy: 961, 92
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+tx/8
+  rotate: false
+  xy: 237, 473
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 557, 251
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 435, 251
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 237, 251
+  size: 196, 220
+  orig: 196, 220
+  offset: 0, 0
+  index: -1
+kai
+  rotate: false
+  xy: 785, 386
+  size: 114, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+TXZ1
+  rotate: false
+  xy: 669, 386
+  size: 114, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+shi
+  rotate: false
+  xy: 435, 386
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+TXZ2
+  rotate: false
+  xy: 552, 386
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1, 474
+  size: 220, 34
+  orig: 220, 34
+  offset: 0, 0
+  index: -1

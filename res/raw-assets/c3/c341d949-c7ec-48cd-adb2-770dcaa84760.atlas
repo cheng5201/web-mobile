@@ -1,0 +1,146 @@
+
+hd_cangyingpai01_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1, 319
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 470, 181
+  size: 36, 43
+  orig: 46, 55
+  offset: 5, 6
+  index: -1
+head
+  rotate: false
+  xy: 365, 1
+  size: 120, 119
+  orig: 131, 131
+  offset: 5, 6
+  index: -1
+eyeball1
+  rotate: false
+  xy: 435, 318
+  size: 42, 26
+  orig: 49, 29
+  offset: 3, 2
+  index: -1
+eye1
+  rotate: false
+  xy: 480, 226
+  size: 13, 12
+  orig: 16, 16
+  offset: 1, 2
+  index: -1
+mouth
+  rotate: false
+  xy: 435, 346
+  size: 38, 19
+  orig: 50, 28
+  offset: 6, 5
+  index: -1
+mouth2
+  rotate: false
+  xy: 58, 390
+  size: 28, 45
+  orig: 38, 53
+  offset: 5, 4
+  index: -1
+eye2
+  rotate: false
+  xy: 365, 122
+  size: 65, 37
+  orig: 78, 51
+  offset: 6, 7
+  index: -1
+cheek1
+  rotate: false
+  xy: 89, 319
+  size: 64, 73
+  orig: 74, 85
+  offset: 5, 6
+  index: -1
+cheek2
+  rotate: false
+  xy: 435, 122
+  size: 51, 57
+  orig: 71, 63
+  offset: 10, 3
+  index: -1
+cheek3
+  rotate: false
+  xy: 1, 390
+  size: 55, 71
+  orig: 65, 83
+  offset: 5, 6
+  index: -1
+eyeball2
+  rotate: false
+  xy: 435, 238
+  size: 43, 41
+  orig: 52, 51
+  offset: 4, 5
+  index: -1
+eyeball3
+  rotate: false
+  xy: 435, 281
+  size: 37, 35
+  orig: 42, 41
+  offset: 2, 3
+  index: -1
+eye3
+  rotate: false
+  xy: 474, 281
+  size: 23, 29
+  orig: 29, 37
+  offset: 3, 4
+  index: -1
+mouth3
+  rotate: false
+  xy: 435, 181
+  size: 33, 55
+  orig: 38, 63
+  offset: 2, 4
+  index: -1
+pai
+  rotate: false
+  xy: 355, 163
+  size: 78, 226
+  orig: 90, 240
+  offset: 6, 7
+  index: -1
+fx3
+  rotate: false
+  xy: 1, 1
+  size: 180, 162
+  orig: 180, 180
+  offset: 0, 8
+  index: -1
+fx1
+  rotate: false
+  xy: 1, 165
+  size: 172, 152
+  orig: 180, 180
+  offset: 8, 8
+  index: -1
+fx2
+  rotate: false
+  xy: 183, 1
+  size: 180, 160
+  orig: 180, 180
+  offset: 0, 8
+  index: -1
+fx4
+  rotate: false
+  xy: 183, 163
+  size: 170, 160
+  orig: 180, 180
+  offset: 10, 8
+  index: -1

@@ -1,0 +1,97 @@
+
+hd_bingtong01_ske.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice
+  rotate: false
+  xy: 1, 201
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 190, 290
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+bucket2
+  rotate: false
+  xy: 1, 306
+  size: 102, 29
+  orig: 107, 31
+  offset: 2, 2
+  index: -1
+water01
+  rotate: false
+  xy: 1, 1
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1
+water05
+  rotate: false
+  xy: 1, 374
+  size: 118, 31
+  orig: 118, 31
+  offset: 0, 0
+  index: -1
+water04
+  rotate: false
+  xy: 1, 133
+  size: 172, 66
+  orig: 172, 66
+  offset: 0, 0
+  index: -1
+water02
+  rotate: false
+  xy: 105, 290
+  size: 83, 82
+  orig: 83, 83
+  offset: 0, 1
+  index: -1
+water03
+  rotate: false
+  xy: 105, 201
+  size: 91, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+ice3
+  rotate: false
+  xy: 1, 337
+  size: 84, 25
+  orig: 84, 25
+  offset: 0, 0
+  index: -1
+bucket
+  rotate: false
+  xy: 127, 1
+  size: 127, 114
+  orig: 127, 124
+  offset: 0, 0
+  index: -1
+ice2
+  rotate: false
+  xy: 198, 178
+  size: 23, 25
+  orig: 24, 25
+  offset: 1, 0
+  index: -1
+fx01
+  rotate: false
+  xy: 175, 178
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 175, 117
+  size: 59, 59
+  orig: 67, 64
+  offset: 4, 2
+  index: -1

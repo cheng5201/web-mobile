@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"Message","text":"package Message;\r\n\r\nenum Messages\r\n{\r\n    MSG_PLAYER_CREATED = 1;\t\t\t\t// 有新玩家创建\r\n    MSG_PLAYER_COMPLETE_TASK = 2;\t\t// 玩家完成任务\r\n    MSG_PLAY_TIMES = 3;\t\t\t\t\t// 游戏玩的次数\r\n};"}

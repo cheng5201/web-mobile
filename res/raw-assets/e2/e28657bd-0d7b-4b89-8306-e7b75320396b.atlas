@@ -1,0 +1,160 @@
+
+hd_maobi01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t01
+  rotate: false
+  xy: 437, 1
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+t02
+  rotate: false
+  xy: 254, 293
+  size: 52, 149
+  orig: 52, 149
+  offset: 0, 0
+  index: -1
+t03
+  rotate: false
+  xy: 471, 1
+  size: 29, 70
+  orig: 29, 70
+  offset: 0, 0
+  index: -1
+t04
+  rotate: false
+  xy: 437, 73
+  size: 59, 36
+  orig: 59, 39
+  offset: 0, 3
+  index: -1
+t041
+  rotate: false
+  xy: 391, 1
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+t05
+  rotate: false
+  xy: 254, 444
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+t06
+  rotate: false
+  xy: 340, 293
+  size: 30, 114
+  orig: 30, 114
+  offset: 0, 0
+  index: -1
+t07
+  rotate: false
+  xy: 1, 1
+  size: 137, 156
+  orig: 137, 156
+  offset: 0, 0
+  index: -1
+fx09
+  rotate: false
+  xy: 1, 305
+  size: 124, 144
+  orig: 138, 157
+  offset: 8, 6
+  index: -1
+fx06
+  rotate: false
+  xy: 265, 1
+  size: 124, 140
+  orig: 138, 157
+  offset: 8, 10
+  index: -1
+fx07
+  rotate: false
+  xy: 127, 159
+  size: 124, 144
+  orig: 138, 157
+  offset: 8, 6
+  index: -1
+fx010
+  rotate: false
+  xy: 377, 143
+  size: 123, 138
+  orig: 138, 157
+  offset: 8, 6
+  index: -1
+fx02
+  rotate: false
+  xy: 253, 147
+  size: 122, 144
+  orig: 138, 157
+  offset: 7, 7
+  index: -1
+fx08
+  rotate: false
+  xy: 1, 159
+  size: 124, 144
+  orig: 138, 157
+  offset: 8, 6
+  index: -1
+fx03
+  rotate: false
+  xy: 140, 1
+  size: 123, 144
+  orig: 138, 157
+  offset: 7, 7
+  index: -1
+fx04
+  rotate: false
+  xy: 127, 305
+  size: 125, 141
+  orig: 138, 157
+  offset: 7, 10
+  index: -1
+fx01
+  rotate: false
+  xy: 391, 81
+  size: 44, 44
+  orig: 138, 157
+  offset: 7, 101
+  index: -1
+fx05
+  rotate: false
+  xy: 377, 283
+  size: 125, 134
+  orig: 138, 157
+  offset: 7, 11
+  index: -1
+brush01
+  rotate: false
+  xy: 308, 293
+  size: 30, 194
+  orig: 37, 196
+  offset: 4, 2
+  index: -1
+fireworks03
+  rotate: false
+  xy: 416, 419
+  size: 72, 66
+  orig: 80, 78
+  offset: 4, 6
+  index: -1
+fireworks01
+  rotate: false
+  xy: 437, 111
+  size: 30, 30
+  orig: 36, 36
+  offset: 3, 3
+  index: -1
+fireworks02
+  rotate: false
+  xy: 340, 419
+  size: 74, 74
+  orig: 80, 78
+  offset: 3, 2
+  index: -1

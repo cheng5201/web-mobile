@@ -1,0 +1,244 @@
+
+saizidonghua.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loading底图
+  rotate: false
+  xy: 1, 215
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+loading底图2
+  rotate: false
+  xy: 1, 1
+  size: 479, 61
+  orig: 479, 61
+  offset: 0, 0
+  index: -1
+dice0008
+  rotate: false
+  xy: 63, 406
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dice0016
+  rotate: false
+  xy: 301, 393
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+dice0003
+  rotate: false
+  xy: 249, 274
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+dice0014
+  rotate: false
+  xy: 424, 454
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+dice0022
+  rotate: false
+  xy: 149, 64
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+dice0009
+  rotate: false
+  xy: 249, 332
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+dice0017
+  rotate: false
+  xy: 311, 64
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+dice0004
+  rotate: false
+  xy: 123, 346
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+dice0015
+  rotate: false
+  xy: 362, 454
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+dice0023
+  rotate: false
+  xy: 191, 274
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+dice0010
+  rotate: false
+  xy: 62, 346
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+dice0018
+  rotate: false
+  xy: 366, 332
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+dice0005
+  rotate: false
+  xy: 185, 336
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+dice0000
+  rotate: false
+  xy: 122, 406
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dice0011
+  rotate: false
+  xy: 1, 346
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dice0019
+  rotate: false
+  xy: 206, 64
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+dice0006
+  rotate: false
+  xy: 308, 332
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+dice0001
+  rotate: false
+  xy: 243, 457
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dice0012
+  rotate: false
+  xy: 362, 393
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+dice0020
+  rotate: false
+  xy: 256, 64
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+dice0007
+  rotate: false
+  xy: 132, 274
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dice0002
+  rotate: false
+  xy: 149, 121
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+dice0013
+  rotate: false
+  xy: 424, 332
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+dice0021
+  rotate: false
+  xy: 181, 464
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+loading光标
+  rotate: false
+  xy: 1, 64
+  size: 146, 149
+  orig: 146, 149
+  offset: 0, 0
+  index: -1
+…
+  rotate: false
+  xy: 481, 454
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dice_3
+  rotate: false
+  xy: 1, 407
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+dice_1
+  rotate: false
+  xy: 243, 395
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+dice_4
+  rotate: false
+  xy: 132, 215
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+dice_6
+  rotate: false
+  xy: 424, 393
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+dice_2
+  rotate: false
+  xy: 181, 405
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+dice_5
+  rotate: false
+  xy: 301, 454
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"rpc_acc_def","text":"package rpc;\r\n\r\n\r\nenum LogoutReason\r\n{\r\n\tLR_Normal = 1;\r\n\tLR_RepeatedLogin = 2;\r\n};\r\n\r\nmessage S2C_Logout \r\n{\r\n\trequired int32 accountID = 1;\r\n\trequired LogoutReason reason = 2;\r\n};\r\n"}

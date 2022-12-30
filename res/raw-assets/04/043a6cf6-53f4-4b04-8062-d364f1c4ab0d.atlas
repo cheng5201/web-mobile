@@ -1,0 +1,97 @@
+
+sanguo_ui_fx_shibai01_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y_0000_yan0009
+  rotate: false
+  xy: 171, 155
+  size: 50, 49
+  orig: 50, 50
+  offset: 0, 1
+  index: -1
+sidai
+  rotate: false
+  xy: 1, 1
+  size: 323, 152
+  orig: 335, 158
+  offset: 6, 3
+  index: -1
+bai
+  rotate: false
+  xy: 326, 151
+  size: 145, 146
+  orig: 157, 156
+  offset: 6, 5
+  index: -1
+shi
+  rotate: false
+  xy: 326, 1
+  size: 147, 148
+  orig: 147, 148
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 1, 299
+  size: 161, 119
+  orig: 171, 127
+  offset: 5, 4
+  index: -1
+line
+  rotate: false
+  xy: 71, 270
+  size: 1, 22
+  orig: 3, 24
+  offset: 1, 1
+  index: -1
+zhizhu1
+  rotate: false
+  xy: 43, 270
+  size: 14, 14
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+zhizhu2
+  rotate: false
+  xy: 59, 270
+  size: 10, 13
+  orig: 12, 15
+  offset: 1, 1
+  index: -1
+zhizhu
+  rotate: false
+  xy: 208, 206
+  size: 19, 31
+  orig: 21, 33
+  offset: 1, 1
+  index: -1
+wing
+  rotate: false
+  xy: 1, 155
+  size: 168, 113
+  orig: 176, 119
+  offset: 4, 3
+  index: -1
+yumao3
+  rotate: false
+  xy: 171, 206
+  size: 35, 38
+  orig: 41, 44
+  offset: 3, 3
+  index: -1
+yumao2
+  rotate: false
+  xy: 1, 270
+  size: 40, 25
+  orig: 44, 27
+  offset: 2, 1
+  index: -1
+yumao1
+  rotate: false
+  xy: 164, 270
+  size: 68, 55
+  orig: 78, 63
+  offset: 5, 4
+  index: -1

@@ -1,0 +1,139 @@
+
+mjanimation.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kwx_mjdh2
+  rotate: false
+  xy: 270, 172
+  size: 125, 164
+  orig: 125, 164
+  offset: 0, 0
+  index: -1
+bule/kwx_mjdh_B6
+  rotate: false
+  xy: 515, 340
+  size: 122, 166
+  orig: 122, 166
+  offset: 0, 0
+  index: -1
+bule/kwx_mjdh_B3
+  rotate: false
+  xy: 1, 171
+  size: 134, 168
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+bule/kwx_mjdh_B4
+  rotate: false
+  xy: 137, 172
+  size: 131, 169
+  orig: 131, 169
+  offset: 0, 0
+  index: -1
+bule/kwx_mjdh_B10
+  rotate: false
+  xy: 516, 1
+  size: 111, 156
+  orig: 111, 156
+  offset: 0, 0
+  index: -1
+yellow/kwx_mjdhY2
+  rotate: false
+  xy: 264, 343
+  size: 125, 164
+  orig: 125, 164
+  offset: 0, 0
+  index: -1
+yellow/kwx_mjdhY4
+  rotate: false
+  xy: 137, 1
+  size: 131, 169
+  orig: 131, 169
+  offset: 0, 0
+  index: -1
+kwx_mjdh4
+  rotate: false
+  xy: 270, 1
+  size: 131, 169
+  orig: 131, 169
+  offset: 0, 0
+  index: -1
+kwx_mjdh6
+  rotate: false
+  xy: 515, 172
+  size: 122, 166
+  orig: 122, 166
+  offset: 0, 0
+  index: -1
+yellow/kwx_mjdhY1
+  rotate: false
+  xy: 639, 159
+  size: 110, 156
+  orig: 110, 156
+  offset: 0, 0
+  index: -1
+kwx_mjdh10
+  rotate: false
+  xy: 397, 172
+  size: 111, 156
+  orig: 111, 156
+  offset: 0, 0
+  index: -1
+kwx_mjdh1
+  rotate: false
+  xy: 741, 1
+  size: 110, 156
+  orig: 110, 156
+  offset: 0, 0
+  index: -1
+yellow/kwx_mjdhY6
+  rotate: false
+  xy: 391, 338
+  size: 122, 166
+  orig: 122, 166
+  offset: 0, 0
+  index: -1
+yellow/kwx_mjdhY3
+  rotate: false
+  xy: 1, 341
+  size: 134, 168
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+kwx_mjdh3
+  rotate: false
+  xy: 1, 1
+  size: 134, 168
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+bule/kwx_mjdh_B1
+  rotate: false
+  xy: 629, 1
+  size: 110, 156
+  orig: 110, 156
+  offset: 0, 0
+  index: -1
+bule/kwx_mjdh_B2
+  rotate: false
+  xy: 137, 343
+  size: 125, 164
+  orig: 125, 164
+  offset: 0, 0
+  index: -1
+yellow/kwx_mjdhY10
+  rotate: false
+  xy: 403, 1
+  size: 111, 156
+  orig: 111, 156
+  offset: 0, 0
+  index: -1
+KWX_maima_tile_29
+  rotate: false
+  xy: 639, 317
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+pukedonghua.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pk1
+  rotate: false
+  xy: 1, 1
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+pk2
+  rotate: false
+  xy: 1, 66
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+pk3
+  rotate: false
+  xy: 1, 192
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+pk4
+  rotate: false
+  xy: 96, 192
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+pk5
+  rotate: false
+  xy: 48, 192
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+pk6
+  rotate: false
+  xy: 1, 130
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 121, 164
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+zhong
+  rotate: false
+  xy: 155, 130
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+xi
+  rotate: false
+  xy: 87, 130
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 121, 130
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+发
+  rotate: false
+  xy: 142, 192
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 58, 130
+  size: 27, 58
+  orig: 55, 69
+  offset: 14, 2
+  index: -1
+中
+  rotate: false
+  xy: 188, 192
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+duijukaishi.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duijukaishi01
+  rotate: false
+  xy: 1, 298
+  size: 264, 146
+  orig: 264, 146
+  offset: 0, 0
+  index: -1
+duijukaishi03
+  rotate: false
+  xy: 1, 152
+  size: 269, 144
+  orig: 269, 146
+  offset: 0, 1
+  index: -1
+duijukaishi02
+  rotate: false
+  xy: 1, 446
+  size: 255, 150
+  orig: 256, 150
+  offset: 1, 0
+  index: -1
+duijukaishi04
+  rotate: false
+  xy: 1, 1
+  size: 262, 149
+  orig: 262, 150
+  offset: 0, 0
+  index: -1
