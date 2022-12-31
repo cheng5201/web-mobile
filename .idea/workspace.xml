@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="8f2e257a-9b8b-4247-80ce-7ec11a058321" />
@@ -49,6 +49,7 @@
       <workItem from="1672380307977" duration="557000" />
       <workItem from="1672382208014" duration="76000" />
       <workItem from="1672382426015" duration="1217000" />
+      <workItem from="1672503903671" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1672380327454</created>
